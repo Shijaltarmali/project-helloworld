@@ -19,4 +19,4 @@ jobs:
           projectBaseDir: .
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: http://34.171.140.148:9000
+          SONAR_HOST_URL: http://34.69.234.130:9000
